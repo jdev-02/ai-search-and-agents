@@ -1,4 +1,4 @@
-#Jonathan Goohs
+#[author]
 #CS3310 Lab 2
 import sys
 from collections import deque

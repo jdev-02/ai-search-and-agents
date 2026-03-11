@@ -1,4 +1,4 @@
-#Jonathan Goohs
+#[author]
 #CS3310 Lab 3
 from collections import deque
 import pandas as pd

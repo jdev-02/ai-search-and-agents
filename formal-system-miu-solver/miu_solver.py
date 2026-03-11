@@ -1,4 +1,4 @@
-'''Jonathan Goohs
+'''[author]
 CS3001
 Project 1
 '''
